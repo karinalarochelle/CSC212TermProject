@@ -1,1 +1,1 @@
-# CSC212TermProject
+# CSC 212 Term Project
